@@ -56,7 +56,7 @@ public class Ville implements Serializable {
         return "fr.insset.devoir.entit\u00e9s.Ville[ id=" + id + " ]";
     }
     
-    private String          nom;
+    private String nom;
 
     public String getNom() {
         return nom;
